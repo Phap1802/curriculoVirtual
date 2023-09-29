@@ -13,7 +13,7 @@
 
 ## Atualizações Feitas: 
 
-### Por mais que sei que posso trabalhar sem o auxilio da blibioteca W3.css, dei foco em pesquisa em seu site algumas outras funções que achei trazer: 
+### Por mais que sei que posso trabalhar sem o auxilio da blibioteca W3.css, dei foco em pesquisa em seu site algumas outras funções que gostei em trazer: 
 
 ####        - Na parte de Projetos, achei legal colocar uma imagem para dar uma visualização ao ler a descrição do projeto. Dessa forma coloquei a imagem logo abaixo da descrição do projeto, usei formatação do W3.css, sendo elas "w3-card e w3-hover-opacity"
 
