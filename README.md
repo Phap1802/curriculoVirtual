@@ -1,6 +1,6 @@
 # CURRICULO VITUAL 
 
-### Feito em aula, compreendi como usa a blibioteca W3.css, que é uma laternativa do bootstrap. 
+### Feito em aula, compreendi como usa a blibioteca W3.css, que é uma alternativa do bootstrap. 
 
 ### O desafio imposto foi de trazer uma mudança/atualização do que fizemos em aula.
 
@@ -8,7 +8,7 @@
 ## Observações: 
 
 ### Neste projeto/desafio por se tratar de um curriculo, não quis colocar muito efeito ou dinanimos para deixar simples e objetivo. 
-#### ( Já em meu futuro portifolio irei introduzir os efeitos e dinamismo para msotrar meu conhecimento na pratica).
+#### ( Já em meu futuro portifolio irei introduzir os efeitos e dinamismo para mostrar meu conhecimento na prática).
 
 
 ## Atualizações Feitas: 
